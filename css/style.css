@@ -2215,7 +2215,7 @@ body {
   font-style: normal;
   font-weight: bold;
   font-size: 75px;
-  line-height: 116px;
+  line-height: 100px;
 }
 @media (max-width: 1700px) {
   .roadmap__title {
